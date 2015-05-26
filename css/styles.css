@@ -1,0 +1,41 @@
+div#content{
+	margin:auto;
+	width:900px;
+}
+
+div#header{
+	padding:10px;
+	background-color:lavender;
+}
+
+div#footer{
+	padding:10px;
+	background-color:lavender;
+	text-align: center;
+}
+
+div#figure{
+	margin:auto;
+	width:800px;
+}
+
+img#logo{ 
+	margin:auto;
+	display: block; /* img is inline-block, this makes it behave like just a block */
+	width:900px;
+}
+
+img#figure{
+	margin:auto;
+	width:800px;
+}
+
+/*
+p {
+    border:1px solid black;
+}
+
+div {
+	border:1px solid black;
+}
+*/

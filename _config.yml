@@ -1,0 +1,11 @@
+# Site settings
+name: AI-Final-Project
+title: AI developement for the RTS game Starcraft Broodwar
+email: camilo.palacios.garzon@gmail.com
+baseurl: /AI-Final-Project
+github_username: camilopalacios
+
+# Build settings
+markdown: redcarpet
+pygments: true
+
